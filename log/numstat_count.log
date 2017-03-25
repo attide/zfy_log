@@ -1,0 +1,5 @@
+INFO: 03-25 11:13:04: test.py:6 * 140735680259008 hahaha
+INFO: 03-25 23:36:05: test.py:19 * 140735680259008 hahaha
+ERROR: 03-25 23:36:05: test.py:20 * 140735680259008 nononono
+[INFO]: 03-25 23:36:57: test.py:19 * 140735680259008 hahaha
+[ERROR]: 03-25 23:36:57: test.py:20 * 140735680259008 nononono
